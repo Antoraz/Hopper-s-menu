@@ -1,0 +1,64 @@
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title></title>
+<link href="styles.css" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&amp;display=swap" rel="stylesheet" />
+<div class="menu-container">
+<header>
+<h1>Pizza <span>Festa</span></h1>
+
+<h2>MENU</h2>
+</header>
+
+<div class="menu-image"><img alt="Pizza Image" class="pizza-img" src="https://via.placeholder.com/300" /></div>
+
+<section class="menu-section">
+<h3>Menu</h3>
+
+<div class="menu-item"><span>Margherita Supreme</span> <span>$12.99</span>
+
+<p>Tomato sauce, mozzarella cheese, fresh basil leaves, sliced tomatoes.</p>
+</div>
+
+<div class="menu-item"><span>Pepperoni Passion</span> <span>$14.99</span>
+
+<p>Tomato sauce, mozzarella cheese, pepperoni slices, black olives, red pepper flakes.</p>
+</div>
+
+<div class="menu-item"><span>Veggie Delight</span> <span>$13.99</span>
+
+<p>Tomato sauce, mozzarella cheese, bell peppers, red onions, mushrooms, spinach.</p>
+</div>
+
+<div class="menu-item"><span>Meat Lover's Feast</span> <span>$15.99</span>
+
+<p>Tomato sauce, mozzarella cheese, Italian sausage, bacon, ham, ground beef.</p>
+</div>
+
+<div class="menu-item"><span>BBQ Chicken Bliss</span> <span>$14.99</span>
+
+<p>BBQ sauce, mozzarella cheese, grilled chicken, red onions, cilantro.</p>
+</div>
+</section>
+
+<section class="menu-section">
+<h3>Beverages</h3>
+
+<div class="menu-item"><span>Soda (16 oz)</span> <span>$1.99</span></div>
+
+<div class="menu-item"><span>Mineral Water</span> <span>$1.49</span></div>
+
+<div class="menu-item"><span>Iced Tea</span> <span>$2.99</span></div>
+</section>
+
+<section class="menu-section">
+<h3>Sides</h3>
+
+<div class="menu-item"><span>Garlic Knots</span> <span>$4.99</span></div>
+
+<div class="menu-item"><span>Cheesy Breadsticks</span> <span>$5.99</span></div>
+
+<div class="menu-item"><span>Caesar Salad</span> <span>$6.99</span></div>
+
+<div class="menu-item"><span>Buffalo Wings (8 pieces)</span> <span>$8.99</span></div>
+</section>
+</div>

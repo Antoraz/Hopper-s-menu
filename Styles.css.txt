@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Caveat', cursive;
+    background-color: #1a1a1a;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.menu-container {
+    width: 300px;
+    background-color: #2c2c2c;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    position: relative;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin: 0;
+    color: #fff;
+}
+
+header h1 span {
+    color: #d4a017;
+}
+
+header h2 {
+    font-size: 1.5em;
+    color: #d4a017;
+    margin: 5px 0 0;
+}
+
+.menu-image {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.pizza-img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #d4a017;
+}
+
+.menu-section {
+    padding: 20px;
+    border-top: 1px solid #444;
+}
+
+.menu-section h3 {
+    font-size: 1.8em;
+    color: #d4a017;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.menu-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    font-size: 1.2em;
+}
+
+.menu-item span:first-child {
+    font-weight: bold;
+}
+
+.menu-item span:last-child {
+    color: #d4a017;
+}
+
+.menu-item p {
+    font-size: 0.9em;
+    color: #ccc;
+    margin: 5px 0 0;
+    text-align: left;
+    flex: 0 0 100%;
+}
